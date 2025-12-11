@@ -1,4 +1,4 @@
-# Predicting Professor Ratings from Review Text 🎓
+# Professor Rating Predictor 🎓
 
 Ever wondered if a computer could read student reviews and guess the star rating? That's exactly what I tried to figure out in this project!
 
