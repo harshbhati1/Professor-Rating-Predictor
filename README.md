@@ -65,7 +65,7 @@ Most reviews are around 100 words, but some students really had a lot to say (on
 
 ## Files in This Repo
 ```
-├── project.ipynb       # All the code and analysis
+├── project.py     # All the code and analysis
 ├── project.pdf         # Presentation slides
 └── README.md          # You're reading it!
 ```
