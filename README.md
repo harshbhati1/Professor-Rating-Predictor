@@ -76,7 +76,7 @@ If you want to try this out:
 
 1. Clone this repo
 2. Install the packages (you'll need PyTorch, transformers, pandas, numpy, scikit-learn, matplotlib, seaborn)
-3. Open `project.ipynb` and run the cells!
+3. Open `project.py` and run the cells!
 
 Just a heads up - training takes a while even on a good GPU, so grab some coffee ☕
 
